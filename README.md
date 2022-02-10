@@ -15,5 +15,5 @@ NodeJS, MongoDB and become Full-Stack web developer.
 
 - [`LinkedIn`](https://www.linkedin.com/in/jakub-m%C5%82ynek-28784522b/)
 - [`Twitter`](https://twitter.com/kreysonfn)
-- [`Mail: contact@mlynek.xyz`](mailto:contact@mlynek.xyz)
+- [`Mail: mlynekjakub05@gmail.com`](mailto:mlynekjakub05@gmail.com)
 
