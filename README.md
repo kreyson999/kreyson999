@@ -2,7 +2,7 @@
 
 ## 👀 Who are you?
 
-I'm 16 (almost 17) years old Front-End developer.
+I'm 17 years old Front-End developer.
 I live in Poland and i'm in the 2. grade of technical school in the IT profile.
 I love building websites and learning new things. I put 100% of my heart into every project i'm doing.
 
