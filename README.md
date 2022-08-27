@@ -3,13 +3,12 @@
 ## 👀 Who are you?
 
 I'm 17 years old Front-End developer.
-I live in Poland and i'm in the 2. grade of technical school in the IT profile.
+I live in Poland and i'm in the 3. grade of technical school in the IT profile.
 I love building websites and learning new things. I put 100% of my heart into every project i'm doing.
 
 ## 👨🏻‍💻 What technologies are you using?
 
-I'm currently using ReactJS and NextJS. In future i would like to learn
-NodeJS, MongoDB and become Full-Stack web developer.
+I'm currently using ReactJS and NextJS with JavaScript/TypeScript.
 
 ## 📫 How can i contact you?
 
