@@ -2,13 +2,14 @@
 
 ## 👀 Who are you?
 
-I'm 18 years old Front-End developer.
-I live in Poland and i'm in the 3. grade of technical school in the IT profile.
-I love building websites and learning new things. I put 100% of my heart into every project i'm doing.
+I'm 19 years old Front-End/Back-End developer or... Cloud Engineer.
+I live in Poland and I'm in the 4. grade of technical school in the IT profile.
 
 ## 👨🏻‍💻 What technologies are you using?
 
-I'm currently using ReactJS and NextJS with JavaScript/TypeScript.
+I prefer coding in React, Next.js with TypeScript. I have commercial experience with Vue.js, Adonis.js, MySQL.
+I worked with a lot of libraries and two most popular cloud infrastructures: Firebase, AWS.
+I'm really fast learner and I can work with anything you tell me.
 
 ## 📫 How can i contact you?
 
